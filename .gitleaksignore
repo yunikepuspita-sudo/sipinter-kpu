@@ -1,0 +1,2 @@
+# gitleaks false positive: nama key localStorage, bukan API key
+f95e21fcf31f321fb5b4e8f5ddb25a9d1fb56a3c:ai.js:generic-api-key:16
