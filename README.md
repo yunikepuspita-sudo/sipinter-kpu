@@ -25,6 +25,7 @@ manifest.json  service-worker.js  icons/  screenshots/     # aset PWA
 ARCHITECTURE.md   # blueprint platform (8 layer, 10 tier, integrasi, roadmap)
 DEPLOY.md         # panduan deployment (AI Live, Frappe LMS, SSO, RAG)
 USULAN-HNP.md     # integrasi ke Usulan HNP KPU Jabar + glosarium akronim
+BIAYA-PENGEMBANGAN.md  # RAB estimasi biaya jadi app kelas Udemy/Coursiv (L1-L6)
 supabase/functions/lms-ai/   # Edge Function relay Claude (kunci di server)
 .github/workflows/pages.yml  # auto-deploy GitHub Pages
 \`\`\`
